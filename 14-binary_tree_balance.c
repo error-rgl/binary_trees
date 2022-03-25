@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_balance - measures the balance factor of binary tree
+ * bt_height - measures the balance factor of binary tree
  * balance factor is difference in height of two children's subtrees.
  *
  * @tree: pointer to the root node of the tree
